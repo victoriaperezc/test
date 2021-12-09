@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Calculator nueva 11</title>
+    <title>Calculator voy a cambiar esto</title>
     <link href="../css/styles.css" rel="stylesheet">
 </head>
 <body>
